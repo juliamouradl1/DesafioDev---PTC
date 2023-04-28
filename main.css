@@ -10,4 +10,7 @@ body {
 .light-theme {
     color: #ffffff;
     background: #2e2e2e;
-  }
+}
+  .flex-container {
+    display: flex;
+}
