@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.light-theme {
+    color: #ffffff;
+    background: #494949;
+  }
